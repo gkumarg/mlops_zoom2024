@@ -1,1 +1,3 @@
-# mlops_zoom2024
+# MLOPS - ZoomCamp 2024
+
+Learnings from MLOPs zoomcamp material
